@@ -14,6 +14,15 @@
           "foreground": "p:secondary",
           "leading_diamond": "\u256d\u2500\ue0b6",
           "style": "diamond",
+          "template": "",
+          "trailing_diamond": "\ue0b4",
+          "type": "root"
+        },
+        {
+          "background": "p:primary",
+          "foreground": "p:secondary",
+          "leading_diamond": "\u2500\ue0b6",
+          "style": "diamond",
           "template": "{{.Icon}} ",
           "trailing_diamond": "\ue0b4",
           "type": "os"
@@ -198,3 +207,4 @@
   "final_space": true,
   "version": 2
 }
+

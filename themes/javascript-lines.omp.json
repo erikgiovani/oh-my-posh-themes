@@ -16,18 +16,6 @@
           },
           "leading_diamond": "\u256d\u2500\ue0b6",
           "trailing_diamond": "\ue0b4",
-          "template": "\uf0e7",
-          "foreground": "p:secondary",
-          "background": "p:primary",
-          "type": "root",
-          "style": "diamond"
-        },
-        {
-          "properties": {
-            "cache_duration": "none"
-          },
-          "leading_diamond": "\u256d\u2500\ue0b6",
-          "trailing_diamond": "\ue0b4",
           "template": "{{.Icon}} ",
           "foreground": "p:secondary",
           "background": "p:primary",

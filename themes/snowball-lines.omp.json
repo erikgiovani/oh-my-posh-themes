@@ -14,7 +14,7 @@
           "foreground": "p:secondary",
           "leading_diamond": "\u256d\u2500\ue0b6",
           "style": "diamond",
-          "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
+          "template": "{{.Icon}} ",
           "trailing_diamond": "\ue0b4",
           "type": "os"
         },
